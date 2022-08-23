@@ -14,9 +14,9 @@ Recursos:
 # Indicaciones para reproducir el Notebook
 
 - Se debe generar un API_TOKEN desde una cuenta validad en Kaggle:
-![Imagen muestra como crear API TOKEN]("API TOKEN.jfif")
+![Imagen muestra como crear API TOKEN](API TOKEN.jfif)
 - Al generar el API_TOKEN este descarga un archivo "kaggle.json" este se debe cargar en el Notebook en la ruta raíz.
 
 # URL del video correspondiente a la entrega N° 2
 
--URL: ![Video](https://www.youtube.com/watch?v=LBp90gF-XgY&feature=youtu.be)
+-URL: ![Video]https://www.youtube.com/watch?v=LBp90gF-XgY&feature=youtu.be
